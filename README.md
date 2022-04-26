@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![lagertha](https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/lagertha.png)
 <!--
 **pascalinecte91/pascalinecte91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
