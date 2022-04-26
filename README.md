@@ -1,6 +1,7 @@
 ### Hi there 👋
-![lagertha](https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/lagertha.png)
 
+![lagertha](https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/lagertha.png)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=philippart-s&theme=radical&hide_langs_below=8)
 
 
 - 🌱 I am currently learning javascript in training at OpenClassroom JavaScript react Front-end, 
@@ -20,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
