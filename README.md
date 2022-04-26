@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![lagertha](https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/lagertha.png)
+<p align="center"> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/lagertha-modified.png"/> </p>
 
 
 - 🌱 I am currently learning javascript in training at OpenClassroom JavaScript react Front-end, 
