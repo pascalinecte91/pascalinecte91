@@ -8,9 +8,9 @@
 - 📫 How to reach me: iletaitunefoispmdr@gmail.com
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pascalinecte91&theme=radical&hide_langs_below=8)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pascalinecte91&theme=radical&hide_langs_below=8)
 ![](https://github-readme-stats.vercel.app/api?username=pascalinecte91&show_icons=true&theme=radical&count_private=true)
-
+ -->
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
