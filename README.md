@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/banby-github.jpg"/> </p>
+<p align="center"> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/pascaline-github.jpg"/> </p>
 
 
 - 🌱 I am currently learning javascript in training at OpenClassroom JavaScript react Front-end, 
