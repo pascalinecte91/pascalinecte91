@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/pascaline github-language.jpg" width:"60"/>
+<p align="center"> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/pascaline github-language.jpg" width:"60">
  </p><p align="center"><img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/portrait pascaline.jpg" width="60"><p/>
 
 
