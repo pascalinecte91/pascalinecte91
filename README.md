@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center"> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/img.jpg">
- <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/pascaline-github.jpg" width="90"><p/>
+<kbd> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/pascaline-github.jpg" width="90"> </kbd><p/>
 
 
 - 🌱 I am currently learning javascript in training at OpenClassroom JavaScript react Front-end, 
