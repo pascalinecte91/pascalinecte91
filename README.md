@@ -1,4 +1,4 @@
-### Hi there 👋 <kbd> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/Slide1.jpg" width="90"> </kbd><p/>
+ ### Hi there 👋 <p align="center"><kbd> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/Slide1.jpg" width="90"> </kbd><p/>
 <p align="center"> <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/img.jpg">
 
 
