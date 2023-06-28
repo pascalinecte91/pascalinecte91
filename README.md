@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 <p align="center">
-  <kbd><img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/Slide1.jpg" width="90" style="border-radius: 5px;"></kbd>
+ <img src="https://github.com/pascalinecte91/pascalinecte91/blob/main/Img/Slide1.jpg" width="90">
 </p>
 
 <p align="center">
